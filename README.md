@@ -1,6 +1,6 @@
 # Data with Danny
 
-### Foodie Fi
+## Foodie Fi
 - [Q1. How many customers has Foodie-Fi ever had?](https://github.com/meganleeharrington/data-with-danny/blob/main/Foodie%20Fi/1.sql)
 - [Q2. What is the monthly distribution of trial plan start_date values for our dataset?](https://github.com/meganleeharrington/data-with-danny/blob/main/Foodie%20Fi/2.sql)
 - [Q3. What plan start_date values occur after the year 2020 for our dataset?](https://github.com/meganleeharrington/data-with-danny/blob/main/Foodie%20Fi/3.sql)
